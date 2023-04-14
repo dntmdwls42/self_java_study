@@ -1,4 +1,6 @@
-# self_java_study
-This is a repository for solving Java problems by myself.
+# 안녕하세요!
+여기에는 dntmdwls42의 자바 작업물을 저장하는 곳입니다.
+
+실력도 형편없고 실수투성이지만 혹시 이상한 점을 발견하신다면 언제든 말해주세요!
 
 [20230415]Testing Commit and push
